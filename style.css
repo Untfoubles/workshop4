@@ -1,0 +1,19 @@
+#schaakbord {
+ width: 508px;
+ border: 2px solid rgb(5, 71, 121);
+ height: 508px;
+}
+
+.wit {
+      width: 60px;
+      height: 60px;
+      display: inline-block;
+      background-color: black;
+}
+
+.zwart {
+    width: 60px ;
+    height: 60px;
+    display: inline-block;
+    background-color: pink;
+}
